@@ -1,0 +1,8 @@
+Build.PL
+examples/Foo.pm
+lib/Bar.pm
+lib/Baz.pm
+lib/Test/PleaseIgnore/Foo.pm
+lib/Test/Private/PleaseIgnore.pm
+MANIFEST
+META.yml

@@ -1,0 +1,19 @@
+--- #YAML:1.0
+name: Test-Private-PleaseIgnore
+version: 0.001
+license: perl
+distribution_type: module
+requires: {}
+recommends: {}
+build_requires: {}
+conflicts: {}
+private:
+  directory:
+    - examples
+  file:
+    - lib/Bar.pm
+  package:
+    - Baz
+  namespace:
+    - Test::PleaseIgnore
+generated_by: hand
